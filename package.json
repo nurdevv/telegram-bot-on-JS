@@ -1,0 +1,22 @@
+{
+  "name": "telegram-bot-couse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "audio": "^1.2.0",
+    "node-telegram-bot-api": "^0.54.0",
+    "nodemon": "^2.0.14",
+    "pg": "^8.7.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.9.0",
+    "ya-music": "0.0.2"
+  }
+}
